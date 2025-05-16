@@ -4,32 +4,34 @@
 Данная сборка 3.20 создана по заказу фирмы **VIMCOM**, с разрешённым и поощряемым распространением.  
 Оригинальный экран с предложением обращаться к разработчикам — удалён (nagfix).
 
----
-
-## 📦 Особенности сборки
-
-- Версия: **3.20 (05.05.1995)**
-- Язык интерфейса: **русский / английский**
-- Тип игры: карточный преферанс (соло, мизер, распас и др.)
-- Автор: **AF Computers**, Москва
-- Распространение: разрешено и приветствуется
-- Совместимость: macOS через **DOSBox Staging**
-- macOS может запросить разрешение на доступ к микрофону — это особенность DOSBox, можно отказать.
+**MARRIAGE** is a DOS card game — a digital version of Sochi-style preference developed by Moscow-based **AF Computers** (1992–1995).  
+This 3.20 build was commissioned by **VIMCOM**, and distribution is explicitly allowed and encouraged.  
+The original nag screen was removed.
 
 ---
 
-## 🖥️ Скриншоты
+## 📦 Особенности / Features
 
-![splash](screenshots/intro.png)
-![table](screenshots/gameplay.png)
-![club](screenshots/club.png)
+- Версия / Version: **3.20 (05.05.1995)**
+- Язык / Language: **Русский / English**
+- Тип игры / Game type: преферанс (соло, мизер, распас и др.)
+- Автор / Author: **AF Computers**, Moscow
+- Распространение / Distribution: разрешено
+- Совместимость / Compatibility: macOS via **DOSBox Staging**
+
+---
+
+## 🖼 Скриншоты / Screenshots
+
+![splash](screenshots/intro.png)  
+![table](screenshots/gameplay.png)  
+![club](screenshots/club.png)  
 ![end](screenshots/end.png)
 
 ---
 
-## 🛠 Установка на macOS
-
-### 📥 Одной строкой:
+## 🛠 Установка / Install (macOS)
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/MFRealG/dos-marriage/main/install.sh)"
+```
