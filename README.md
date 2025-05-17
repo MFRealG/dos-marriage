@@ -18,15 +18,6 @@
 
 ---
 
-## 🖼 Скриншоты
-
-![intro](screenshots/intro.png)  
-![gameplay](screenshots/gameplay.png)  
-![club](screenshots/club.png)  
-![end](screenshots/end.png)
-
----
-
 ## 🛠 Установка на macOS
 
 ### 📥 Вариант 1:  Установка одной строкой через терминал (рекомендуется)
@@ -34,6 +25,7 @@
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/MFRealG/dos-marriage/main/install.sh)"
 ```
+*Ждите появления игры у вас на рабочем столе!*
 
 ### 📥 Вариант 2:  Установка через Homebrew
 
@@ -68,6 +60,7 @@ cd /путь/к/MARRIAGE.app/Contents/MacOS
 
 ---
 
+---
 # 💍 MARRIAGE — DOS Preference 3.20 (VIMCOM edition, nagfix)
 
 **MARRIAGE** is a DOS card game — a digital version of Sochi-style preference, developed by Moscow-based studio **AF Computers** in 1992–1995.  
@@ -88,15 +81,6 @@ Redistribution is allowed and encouraged by the authors.
 
 ---
 
-## 🖼 Screenshots
-
-![intro](screenshots/intro.png)  
-![gameplay](screenshots/gameplay.png)  
-![club](screenshots/club.png)  
-![end](screenshots/end.png)
-
----
-
 ## 🛠 Installation on macOS
 
 ### 📥 Method 1: One-line quick install via Terminal (recommended)
@@ -104,6 +88,7 @@ Redistribution is allowed and encouraged by the authors.
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/MFRealG/dos-marriage/main/install.sh)"
 ```
+*Wait until the App appears on your Desktop!*
 
 ### 📥 Method 2:  Homebrew install
 
@@ -136,3 +121,10 @@ cd /path/to/MARRIAGE.app/Contents/MacOS
 - If macOS warns about an unknown developer — right-click the .app and select “Open”.
 
 ---
+
+## 🖼 Скриншоты / Screenshots
+
+![intro](screenshots/intro.png)  
+![gameplay](screenshots/gameplay.png)  
+![club](screenshots/club.png)  
+![end](screenshots/end.png)
