@@ -13,7 +13,7 @@
 - Язык интерфейса: **русский / английский**
 - Тип игры: преферанс (соло, мизер, распас и др.)
 - Автор: **AF Computers**, Москва
-- Совместимость: macOS (через встроенный **DOSBox**)
+- Совместимость: macOS - Intel only (через встроенный **DOSBox**)
 - macOS может запросить доступ к микрофону — это особенность DOSBox. Можно смело отказать, игра работает без него.
 
 ---
@@ -29,16 +29,7 @@
 
 ## 🛠 Установка на macOS
 
-### 📥 Вариант 1: ZIP-архив (рекомендуется)
-
-1. Скачайте архив [`MARRIAGE.app.zip`](https://github.com/MFRealG/dos-marriage/releases/latest) из раздела Releases ниже.
-2. Распакуйте ZIP двойным кликом через Finder (только встроенным архиватором!).
-3. Откройте `MARRIAGE.app` двойным кликом.
-4. Если macOS спросит разрешение — правая кнопка по .app → “Открыть” → подтвердить.
-
----
-
-### 📥 Вариант 2: Установка одной строкой через терминал
+### 📥 Вариант 1:  Установка одной строкой через терминал (рекомендуется)
 
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/MFRealG/dos-marriage/main/install.sh)"
@@ -75,7 +66,7 @@ Redistribution is allowed and encouraged by the authors.
 - Interface language: **Russian / English**
 - Game type: preference (solo, misère, raspas, etc.)
 - Developer: **AF Computers**, Moscow
-- Compatibility: macOS (via built-in **DOSBox**)
+- Compatibility: macOS - Intel only (via built-in **DOSBox**)
 - macOS may request microphone access — this is a known quirk of DOSBox. You can safely deny it; the game works without it.
 
 ---
@@ -91,16 +82,7 @@ Redistribution is allowed and encouraged by the authors.
 
 ## 🛠 Installation on macOS
 
-### 📥 Method 1: ZIP archive (recommended)
-
-1. Download [`MARRIAGE.app.zip`](https://github.com/MFRealG/dos-marriage/releases/latest) from the Releases section below.
-2. Unzip with Finder (double-click the ZIP, use only the built-in unarchiver).
-3. Run `MARRIAGE.app` by double-clicking it.
-4. If macOS blocks the app: right-click → “Open” → confirm launch.
-
----
-
-### 📥 Method 2: One-line quick install via Terminal
+### 📥 Method 1: One-line quick install via Terminal (recommended)
 
 ```sh
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/MFRealG/dos-marriage/main/install.sh)"
