@@ -35,6 +35,22 @@
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/MFRealG/dos-marriage/main/install.sh)"
 ```
 
+### 📥 Вариант 2:  Установка через Homebrew
+
+```sh
+brew tap MFRealG/marriage
+
+brew install --cask marriage
+```
+
+- После установки macOS может показать предупреждение о безопасности и не дать открыть программу сразу.
+  В этом случае нужно:
+
+  Кликнуть правой кнопкой мыши по приложению и выбрать “Открыть” — появится окно, в котором нужно подтвердить запуск.
+
+  Или: зайти в Системные настройки → Конфиденциальность и безопасность и нажать “Всё равно открыть” напротив MARRIAGE.app.
+
+- Это стандартное ограничение macOS — оно срабатывает для всех программ, которые скачаны из интернета и не подписаны через Apple.
 ---
 
 ## ❗️ Если не запускается
@@ -47,7 +63,8 @@ cd /путь/к/MARRIAGE.app/Contents/MacOS
 ./Launcher
 ```
 
-- Если macOS предупреждает про неизвестного разработчика — разрешите запуск через “Открыть”.
+- Если macOS предупреждает про неизвестного разработчика —
+разрешите запуск через “Открыть” (или настройте в "Конфиденциальности и безопасности").
 
 ---
 
@@ -88,6 +105,22 @@ Redistribution is allowed and encouraged by the authors.
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/MFRealG/dos-marriage/main/install.sh)"
 ```
 
+### 📥 Method 2:  Homebrew install
+
+```sh
+brew tap MFRealG/marriage
+
+brew install --cask marriage
+```
+
+- After installation, macOS may show a security warning and not let you open the app immediately.
+  If this happens, do the following:
+
+  Right-click the app and select “Open” — you’ll see a window where you can confirm the launch.
+
+  Or: go to System Settings → Privacy & Security and click “Open Anyway” next to MARRIAGE.app.
+
+- This is a standard macOS restriction — it happens for all apps downloaded from the internet that are not signed by Apple.
 ---
 
 ## ❗️ If the app doesn't launch
